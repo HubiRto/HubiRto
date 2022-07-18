@@ -1,6 +1,6 @@
-## Cześć 👋
+## Wiatj na moim profilu 👋
 
-### Moj opis w Java :
+### Tutaj masz mój opis w języku Java :
 Main.java
 ```java
 public class Main {
